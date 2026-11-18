@@ -40,8 +40,10 @@ Place the files as shown below to use the defaults in [model_config.py](model_co
 | SeeSR [UNet](https://huggingface.co/CSWRY/SeeSR/tree/main/seesr/unet) and [ControlNet](https://huggingface.co/CSWRY/SeeSR/tree/main/seesr/controlnet). Each folder needs its `config.json` and `diffusion_pytorch_model.safetensors`. | `preset/models/seesr/unet/` and `preset/models/seesr/controlnet/` |
 | [RAM Swin-L checkpoint](https://huggingface.co/spaces/xinyu1205/recognize-anything/blob/main/ram_swin_large_14m.pth) | `preset/models/ram_swin_large_14m.pth` |
 | [DAPE checkpoint](https://huggingface.co/CSWRY/SeeSR/blob/main/DAPE.pth) | `preset/DAPE.pth` |
-| This project's fine-tuned MS-LIQE inference checkpoint (354 MB) | `ms_liqe.pt`, next to `MAP_IQA.py` |
+| [This project's fine-tuned MS-LIQE checkpoint (`ms_liqe.pt`, 354 MB)](https://drive.google.com/file/d/1mHJNQ_iGzmYD1youGAdrnNLxes-0KwUr/view?usp=sharing) | Project root, next to `MAP_IQA.py` |
 | [OpenAI CLIP ViT-B/32](https://openaipublic.azureedge.net/clip/models/40d365715913c9da98579312b702a82c18be219cc2a73407c4526f58eba950af/ViT-B-32.pt) | `~/.cache/clip/ViT-B-32.pt`, downloaded automatically on first use if missing |
+
+Download `ms_liqe.pt` from the Google Drive link above and place it in the project root (the same directory as `MAP_IQA.py`). The default configuration uses this location, so no path changes are needed.
 
 For SD2-base, keep `config.json` in each model subfolder and the full `tokenizer/` directory. The weight filenames are `text_encoder/model.safetensors`, `unet/diffusion_pytorch_model.safetensors`, and `vae/diffusion_pytorch_model.safetensors`.
 
