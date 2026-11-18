@@ -5,6 +5,12 @@ Implementation of the paper accepted by **IEEE Transactions on Image Processing 
 
 We enhance images by optimizing diffusion latents with a no-reference image quality model and an NLPD fidelity term. This implementation uses ControlNet-augmented Diffusion and can save the intermediate images and a video of the optimization process.
 
+## Demo
+
+Image enhancement progression in a 3×3 grid.
+
+https://github.com/user-attachments/assets/67ffed10-725f-4a6b-83cf-84cdf638e975
+
 ## Requirements
 
 A CUDA-capable NVIDIA GPU is required. The tested environment is Linux with Python **3.9.18** and the following main dependencies:
