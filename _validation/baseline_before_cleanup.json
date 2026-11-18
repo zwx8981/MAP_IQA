@@ -1,0 +1,382 @@
+{
+  "input_image": "/home/ps/codebase/SeeSR/preset/datasets/realsr/sample00/Canon_041_LR4.png",
+  "outputs": [
+    {
+      "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/0/Canon_041_LR4.png",
+      "sha256": "a856f0f93bc69862b9fe3977dac8006c81af948323e3702b5173bd3940bcdd84",
+      "pixel_sha256": "4a458f97d35d349f49cf0870d1c747d745cf8ff3d1775b7889ff0c95cdd9937d",
+      "mode": "RGB",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/1/Canon_041_LR4.png",
+      "sha256": "6b2f8cf8781d00d4cb12a4571ca88d27780f663643a9414720ceca64aaa5acdd",
+      "pixel_sha256": "a8879a97ba379cf4e21e95fb4d6c9fce25720d91bc48e02ffdbcb000ac70a54d",
+      "mode": "RGB",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/10/Canon_041_LR4.png",
+      "sha256": "94d2889bc97043cc6f780b17b5ebc7cac105d416d453b082fff13a5737eb8096",
+      "pixel_sha256": "689252cd8ce5d001faae2493dd6bc775a8272ee42bbde7d3b6c590991ddb5c59",
+      "mode": "RGB",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/11/Canon_041_LR4.png",
+      "sha256": "d77286f954ad42b0eabbb38ac871a6c5d244a99ea85e472626791be11a7388e8",
+      "pixel_sha256": "369b8aa7458c9734fa25524f50522b4e265168e4320139813e2eaa2b50cdd1ce",
+      "mode": "RGB",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/12/Canon_041_LR4.png",
+      "sha256": "7916e1ab82f4848057a0b1a7dd1d63392ae569d4c2960852c5e928dce7e8af59",
+      "pixel_sha256": "55b1dafed3daf45da8982ebd467180df5256422b1dd1fee77d8aae3a3e4e1c5c",
+      "mode": "RGB",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/13/Canon_041_LR4.png",
+      "sha256": "186e2c61f8a9a6e389b6a73084ee26a93ff4ea982cb7b5453b098510c7f687d4",
+      "pixel_sha256": "e1627946c98820f6e1fec595a75fd3feb0434450cf769ebb9d1db53d16638c9f",
+      "mode": "RGB",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/14/Canon_041_LR4.png",
+      "sha256": "9cd47b1d468931a83065e5b5acb016d781f633c1c614cc7c09373b2740552833",
+      "pixel_sha256": "9486990cee83416f85c3fed370ea1d63a40374c7299c9a2a2100fe2b53461122",
+      "mode": "RGB",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/2/Canon_041_LR4.png",
+      "sha256": "9a01dc0ed2d271e320c8d4841c789b5283281ac590973905ecb6a9215780ba68",
+      "pixel_sha256": "3b1d328d19cdb1e5d3ef4f33486416bcac300fb16b7953ee85ae10da41cb62ff",
+      "mode": "RGB",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/3/Canon_041_LR4.png",
+      "sha256": "5c76c4f01f60fe245e1466379da160fac4f386b152865b9d9148240256699dec",
+      "pixel_sha256": "321dc7c8bc4f1c58c01002247e8678bd8a701a7dc908b33535c5d07d22cc9c2d",
+      "mode": "RGB",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/4/Canon_041_LR4.png",
+      "sha256": "8efc827d0a3c386be0eed5468dbde79ed726ac7b04453bdd4c389ed641a2ec8a",
+      "pixel_sha256": "6159883f0fded6e717d29e7cccb64e8623207bbe6fa921595c678e5c8309729e",
+      "mode": "RGB",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/5/Canon_041_LR4.png",
+      "sha256": "caa29a37450c34fc57901853ff6474c84989e483a007f46261c81ce7f33361a0",
+      "pixel_sha256": "19a23b042f642dc7e333775426718204b1315c5b2f6f027621f95e48093c7128",
+      "mode": "RGB",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/6/Canon_041_LR4.png",
+      "sha256": "91b774265c9f7aa6a2f2655a7ba08cdbc59c4013bdcb1b6fbcc652e2ba214dbf",
+      "pixel_sha256": "dd008913117853f76e80a235837213cf820307d337ecb88f1fb85b98063feef1",
+      "mode": "RGB",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/7/Canon_041_LR4.png",
+      "sha256": "7d45943c573c78e55e150055f5a579d12caae1c38c9dc88d82bf79f349278689",
+      "pixel_sha256": "3d4b9c9c59fa4248b77242880432198b2006752e484e0004d5b7e2c331265fe5",
+      "mode": "RGB",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/8/Canon_041_LR4.png",
+      "sha256": "847627858248e6461af803e81348d09375330b8241ddb9bb737082f45c5271fd",
+      "pixel_sha256": "078e0a4c4f57b16fcede24d8e5216bebbea2c5fe100502cdc3e4195d5fa8bd7d",
+      "mode": "RGB",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/9/Canon_041_LR4.png",
+      "sha256": "448fd6af7bc672f3bab1b699a02428de1035da5ba7aea6a4d22a2683bd8cad24",
+      "pixel_sha256": "d166e65850f7e084bccc3a03b58b8b3bf9c6c489d022cfbdcb0a3d278583f2dd",
+      "mode": "RGB",
+      "size": [
+        512,
+        512
+      ]
+    }
+  ],
+  "previous_report": {
+    "status": "passed",
+    "working_directory": "/home/ps/codebase/SeeSR_extracted",
+    "entrypoint": "/home/ps/codebase/SeeSR_extracted/MAP_enhance3.py",
+    "input_image": "/home/ps/codebase/SeeSR/preset/datasets/realsr/sample00/Canon_041_LR4.png",
+    "diffusion_steps": 20,
+    "maximum_optimization_steps": 15,
+    "quality_model": "liqe_oppo_ms3",
+    "quality_lambda": 1,
+    "python": "/home/ps/anaconda3/envs/iqa/bin/python",
+    "torch": "2.8.0+cu128",
+    "cuda_available": true,
+    "gpu": "NVIDIA RTX 5880 Ada Generation",
+    "packages": {
+      "diffusers": "0.33.1",
+      "transformers": "4.50.0",
+      "pyiqa": "0.1.13",
+      "timm": "1.0.24",
+      "peft": "0.13.2"
+    },
+    "completed_images": 1,
+    "outputs": [
+      {
+        "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/0/Canon_041_LR4.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 528741
+      },
+      {
+        "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/1/Canon_041_LR4.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 529605
+      },
+      {
+        "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/10/Canon_041_LR4.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 536576
+      },
+      {
+        "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/11/Canon_041_LR4.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 535806
+      },
+      {
+        "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/12/Canon_041_LR4.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 535855
+      },
+      {
+        "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/13/Canon_041_LR4.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 535911
+      },
+      {
+        "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/14/Canon_041_LR4.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 536194
+      },
+      {
+        "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/2/Canon_041_LR4.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 530792
+      },
+      {
+        "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/3/Canon_041_LR4.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 532064
+      },
+      {
+        "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/4/Canon_041_LR4.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 533706
+      },
+      {
+        "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/5/Canon_041_LR4.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 535613
+      },
+      {
+        "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/6/Canon_041_LR4.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 536719
+      },
+      {
+        "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/7/Canon_041_LR4.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 537309
+      },
+      {
+        "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/8/Canon_041_LR4.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 537355
+      },
+      {
+        "path": "/home/ps/codebase/SeeSR_extracted/fidelity_perception_tradeoff/liqe_oppo_ms3/9/Canon_041_LR4.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 537194
+      }
+    ],
+    "local_modules": {
+      "__main__": "/home/ps/codebase/SeeSR_extracted/_validation/verify_one.py",
+      "__mp_main__": "/home/ps/codebase/SeeSR_extracted/_validation/verify_one.py",
+      "ram.inference": "/home/ps/codebase/SeeSR_extracted/ram/inference.py",
+      "ram.transform": "/home/ps/codebase/SeeSR_extracted/ram/transform.py",
+      "ram": "/home/ps/codebase/SeeSR_extracted/ram/__init__.py",
+      "ram.models.bert": "/home/ps/codebase/SeeSR_extracted/ram/models/bert.py",
+      "ram.models.swin_transformer": "/home/ps/codebase/SeeSR_extracted/ram/models/swin_transformer.py",
+      "ram.models.vit": "/home/ps/codebase/SeeSR_extracted/ram/models/vit.py",
+      "ram.models.utils": "/home/ps/codebase/SeeSR_extracted/ram/models/utils.py",
+      "ram.models.ram": "/home/ps/codebase/SeeSR_extracted/ram/models/ram.py",
+      "ram.models.tag2text": "/home/ps/codebase/SeeSR_extracted/ram/models/tag2text.py",
+      "ram.models": "/home/ps/codebase/SeeSR_extracted/ram/models/__init__.py",
+      "ram.models.bert_lora": "/home/ps/codebase/SeeSR_extracted/ram/models/bert_lora.py",
+      "ram.models.swin_transformer_lora": "/home/ps/codebase/SeeSR_extracted/ram/models/swin_transformer_lora.py",
+      "ram.models.ram_lora": "/home/ps/codebase/SeeSR_extracted/ram/models/ram_lora.py",
+      "models.unet_2d_blocks": "/home/ps/codebase/SeeSR_extracted/models/unet_2d_blocks.py",
+      "models.unet_2d_condition": "/home/ps/codebase/SeeSR_extracted/models/unet_2d_condition.py",
+      "models.controlnet": "/home/ps/codebase/SeeSR_extracted/models/controlnet.py",
+      "helper_functions": "/home/ps/codebase/SeeSR_extracted/helper_functions.py",
+      "memcnn.models": "/home/ps/codebase/SeeSR_extracted/memcnn/models/__init__.py",
+      "memcnn.models.additive": "/home/ps/codebase/SeeSR_extracted/memcnn/models/additive.py",
+      "memcnn.models.affine": "/home/ps/codebase/SeeSR_extracted/memcnn/models/affine.py",
+      "memcnn.models.revop": "/home/ps/codebase/SeeSR_extracted/memcnn/models/revop.py",
+      "memcnn": "/home/ps/codebase/SeeSR_extracted/memcnn/__init__.py",
+      "clipora.lora.attention": "/home/ps/codebase/SeeSR_extracted/clipora/lora/attention.py",
+      "clipora.lora.inject": "/home/ps/codebase/SeeSR_extracted/clipora/lora/inject.py",
+      "LIQE": "/home/ps/codebase/SeeSR_extracted/LIQE.py",
+      "CLIP.model": "/home/ps/codebase/SeeSR_extracted/CLIP/model.py",
+      "CLIP.simple_tokenizer": "/home/ps/codebase/SeeSR_extracted/CLIP/simple_tokenizer.py",
+      "CLIP.clip": "/home/ps/codebase/SeeSR_extracted/CLIP/clip.py",
+      "CLIP": "/home/ps/codebase/SeeSR_extracted/CLIP/__init__.py",
+      "clip_score": "/home/ps/codebase/SeeSR_extracted/clip_score.py",
+      "wavelet_color_fix": "/home/ps/codebase/SeeSR_extracted/wavelet_color_fix.py",
+      "mapping2": "/home/ps/codebase/SeeSR_extracted/mapping2.py",
+      "nlpd": "/home/ps/codebase/SeeSR_extracted/nlpd.py",
+      "ms_ssim": "/home/ps/codebase/SeeSR_extracted/ms_ssim.py",
+      "modular": "/home/ps/codebase/SeeSR_extracted/modular.py",
+      "MAP_diffusion_latent": "/home/ps/codebase/SeeSR_extracted/MAP_diffusion_latent.py"
+    },
+    "original_code_and_resources_unchanged": true,
+    "weight_metadata_unchanged": true,
+    "elapsed_seconds": 195.87,
+    "application_code_files": [
+      "/home/ps/codebase/SeeSR_extracted/CLIP/__init__.py",
+      "/home/ps/codebase/SeeSR_extracted/CLIP/clip.py",
+      "/home/ps/codebase/SeeSR_extracted/CLIP/model.py",
+      "/home/ps/codebase/SeeSR_extracted/CLIP/simple_tokenizer.py",
+      "/home/ps/codebase/SeeSR_extracted/LIQE.py",
+      "/home/ps/codebase/SeeSR_extracted/MAP_diffusion_latent.py",
+      "/home/ps/codebase/SeeSR_extracted/MAP_enhance3.py",
+      "/home/ps/codebase/SeeSR_extracted/clip_score.py",
+      "/home/ps/codebase/SeeSR_extracted/clipora/lora/attention.py",
+      "/home/ps/codebase/SeeSR_extracted/clipora/lora/inject.py",
+      "/home/ps/codebase/SeeSR_extracted/helper_functions.py",
+      "/home/ps/codebase/SeeSR_extracted/mapping2.py",
+      "/home/ps/codebase/SeeSR_extracted/memcnn/__init__.py",
+      "/home/ps/codebase/SeeSR_extracted/memcnn/models/__init__.py",
+      "/home/ps/codebase/SeeSR_extracted/memcnn/models/additive.py",
+      "/home/ps/codebase/SeeSR_extracted/memcnn/models/affine.py",
+      "/home/ps/codebase/SeeSR_extracted/memcnn/models/revop.py",
+      "/home/ps/codebase/SeeSR_extracted/models/controlnet.py",
+      "/home/ps/codebase/SeeSR_extracted/models/unet_2d_blocks.py",
+      "/home/ps/codebase/SeeSR_extracted/models/unet_2d_condition.py",
+      "/home/ps/codebase/SeeSR_extracted/modular.py",
+      "/home/ps/codebase/SeeSR_extracted/ms_ssim.py",
+      "/home/ps/codebase/SeeSR_extracted/nlpd.py",
+      "/home/ps/codebase/SeeSR_extracted/ram/__init__.py",
+      "/home/ps/codebase/SeeSR_extracted/ram/inference.py",
+      "/home/ps/codebase/SeeSR_extracted/ram/models/__init__.py",
+      "/home/ps/codebase/SeeSR_extracted/ram/models/bert.py",
+      "/home/ps/codebase/SeeSR_extracted/ram/models/bert_lora.py",
+      "/home/ps/codebase/SeeSR_extracted/ram/models/ram.py",
+      "/home/ps/codebase/SeeSR_extracted/ram/models/ram_lora.py",
+      "/home/ps/codebase/SeeSR_extracted/ram/models/swin_transformer.py",
+      "/home/ps/codebase/SeeSR_extracted/ram/models/swin_transformer_lora.py",
+      "/home/ps/codebase/SeeSR_extracted/ram/models/tag2text.py",
+      "/home/ps/codebase/SeeSR_extracted/ram/models/utils.py",
+      "/home/ps/codebase/SeeSR_extracted/ram/models/vit.py",
+      "/home/ps/codebase/SeeSR_extracted/ram/transform.py",
+      "/home/ps/codebase/SeeSR_extracted/wavelet_color_fix.py"
+    ],
+    "application_code_file_count": 37
+  }
+}
